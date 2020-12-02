@@ -1,0 +1,71 @@
+.position{
+  height: 200px;
+  width: 300px;
+  background-image: linear-gradient(90deg, rgba(254,184,152,1) 2%, rgba(255,151,152,1) 40%, rgba(255,137,151,1) 83%, rgba(255,132,150,1) 100%);
+  display:inline-block;
+  border-radius: 10px;
+  
+}
+img{
+  position: relative;
+   top: -156px;
+   right: -256px;
+  
+  
+}
+p{
+  color: aliceblue;
+  text-align: justify ;
+  padding-left: 2em;
+}
+h2{
+  color: aliceblue;
+  padding-left: 1.4em;
+}
+  
+
+.ordes{
+  height: 200px;
+  width: 300px;
+  display:inline-block;
+  border-radius: 10px;
+  background-image:linear-gradient(90deg, rgba(128,196,245,1) 2%, rgba(65,164,232,1) 40%, rgba(23,144,225,1) 100%, rgba(255,132,150,1) 100%);
+}
+table{
+  text-align: center;
+  font-size: 2em;
+}
+.online{
+  display:inline-block;
+  height: 200px;
+  width: 300px;
+  background-image: linear-gradient(90deg, rgba(112,216,207,1) 0%, rgba(51,212,194,1) 40%, rgba(7,209,185,1) 100%, rgba(255,132,150,1) 100%);
+  border-radius: 10px;
+  
+}
+.round {
+  width: 10em;
+  height: 10em;
+  border: 2px solid rgb(253, 253, 253);
+  border-radius: 50%;
+  line-height: 10em;  
+  text-align: center;  
+  background: mistyrose;
+  left: 11em;
+  top:-1em;
+  position: absolute;
+  opacity: 0.2;
+}
+.round1 {
+  width: 10em;
+  height: 10em;
+  border: 2px solid rgb(253, 253, 253);
+  border-radius: 50%;
+  line-height: 10em;  
+  text-align: center;  
+  background: mistyrose;
+  left: 10em;
+  top:6em;
+  position: absolute;
+  opacity: 0.2;
+}
