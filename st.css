@@ -31,10 +31,7 @@ h2{
   border-radius: 10px;
   background-image:linear-gradient(90deg, rgba(128,196,245,1) 2%, rgba(65,164,232,1) 40%, rgba(23,144,225,1) 100%, rgba(255,132,150,1) 100%);
 }
-table{
-  text-align: center;
-  font-size: 2em;
-}
+
 .online{
   display:inline-block;
   height: 200px;
